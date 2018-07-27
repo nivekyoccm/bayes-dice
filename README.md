@@ -16,7 +16,7 @@ Say I roll an 8. After one bayesian update, what are the new priors?
 
 You are to create a class called `BayesDice`. Implement as many instance methods as you need. The purpose of this class is to run a simulation. The simulation will choose a die, and then roll it repeatedly. Every time you roll the chosen die, you will update the priors. You should be able to figure out which die was chosen after a small number of rolls have occurred.
 
-Here is a small sample of how you would execute your code.
+Here is a small sample of how you could execute your code.
 
 ```
 bd = BayesDice()
