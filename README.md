@@ -22,6 +22,8 @@ Here is a small sample of how you would execute your code.
 bd = BayesDice()
 bd.choose_die()
 bd.roll_die()
+bd.roll_die()
+bd.roll_die()
 ```
 
 ### Layout
