@@ -28,7 +28,7 @@ bd.roll_die()
 
 ### Layout
 
-Put your code under the `src` directory. Also create a `test` directory to test out your code, to ensure it is working as expected.
+Put your code under the `src` directory. Also create a `test` directory to test out your code, to ensure it is working as expected. Use `pytest`.
 
 ### Pull Request
 
